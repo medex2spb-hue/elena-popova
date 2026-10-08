@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://medex2spb-hue.github.io/elena-popova/sitemap.xml
